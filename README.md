@@ -1,5 +1,7 @@
 # Intro to the ChatGPT API
 
+Check out my video on YouTube! https://youtu.be/e8z886SP-fU
+
 Conversational AI, especially ChatGPT, has become extremely popular over the past year. By January 2023, ChatGPT was the fastest-growing consumer software application in history. While many are familiar with and frequently use its web interface, we will explore its API (Application Programming Interface).
 
 The API access allows you to interact with ChatGPT in a Jupyter Notebook or any other coding environment. It radically speeds up the development and deployment of many natural language processing tasks such as text summarization, sentiment analysis, topic modeling, and text transformations (such as translation, grammar correction, and style adjustments), and chatbot development. I will show you how to perform some of these tasks during the video.
